@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.cppStandard": "c11",
+    "C_Cpp.default.cStandard": "c99",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.formatting": "Disabled",
+    "C_Cpp.intelliSenseEngine": "Disabled",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": false,
+        "source.fixAll.eslint": true,
+        "source.fixAll.stylelint": true,
+        "source.fixAll.tslint": true
+    }
+}
